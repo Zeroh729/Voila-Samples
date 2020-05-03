@@ -1,6 +1,2 @@
-bqplot
-ipympl
-ipyvolume
-scipy
 ipywidgets
 voila
